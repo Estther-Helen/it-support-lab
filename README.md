@@ -28,17 +28,9 @@ This repository contains my hands-on IT support and system administration learni
 - GitHub
 - VS Code
 
-Day 2 - Windows Troubleshooting Basics
+## Day 2 - Windows Troubleshooting Basics
 
-Commands Used:
-
-hostname
-whoami
-systeminfo
-
-Skills Learned:
-
-Device identification
-User identification
-System information gathering
-Basic Windows troubleshooting
+- Used systeminfo to gather system details
+- Used hostname to identify the computer
+- Used whoami to identify the logged-in user
+- Practiced documenting troubleshooting activities
