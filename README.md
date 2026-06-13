@@ -34,3 +34,16 @@ This repository contains my hands-on IT support and system administration learni
 - Used hostname to identify the computer
 - Used whoami to identify the logged-in user
 - Practiced documenting troubleshooting activities
+
+### Day 3 - Windows Services
+
+Commands Used:
+- Get-Service
+- Get-Service | findstr DHCP
+- Get-Service | findstr DNS
+- Get-Service | findstr Spooler
+
+Skills Learned:
+- Windows service management
+- Service monitoring
+- Troubleshooting background processes
