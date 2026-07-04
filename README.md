@@ -47,3 +47,18 @@ Skills Learned:
 - Windows service management
 - Service monitoring
 - Troubleshooting background processes
+
+## Day 4 – Users, Groups and NTFS Permissions
+
+Topics covered:
+
+* Local users
+* Local groups
+* Administrator membership
+* File creation
+* NTFS permissions
+* Access Control Lists (ACLs)
+
+Detailed notes are available in:
+
+`Day4-Users-NTFS.md`
